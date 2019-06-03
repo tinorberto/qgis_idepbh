@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "C:\\Users\\pb003357\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    
+        "python.linting.pylintArgs": [
+        
+            "--extension-pkg-whitelist=PyQt5, qgis"
+            
+            ]
+        
+}
