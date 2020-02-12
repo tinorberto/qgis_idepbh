@@ -1,0 +1,28 @@
+<plugins>
+    <pyqgis_plugin name="ARPAT plugin" version="0.3.3" plugin_id="147">
+        <description><![CDATA[Display of stratigraphy from surveys. Developing with funding from ARPAT.]]></description>
+        <about><![CDATA[Now deprecated, old and unmaintained.]]></about>
+        <version>0.3.3</version>
+        <trusted>False</trusted>
+        <qgis_minimum_version>1.0.0</qgis_minimum_version>
+        <qgis_maximum_version>1.99.0</qgis_maximum_version>
+        <homepage><![CDATA[http://www.faunalia.eu/]]></homepage>
+        <file_name>arpat.0.3.3.zip</file_name>
+        <icon>/static/packages/survey.png</icon>
+        <author_name><![CDATA[Martin Dobias (Faunalia)]]></author_name>
+        <download_url>http://plugins.qgis.org/plugins/arpat/version/0.3.3/download/</download_url>
+        <uploaded_by><![CDATA[brushtyler]]></uploaded_by>
+        <create_date>2012-06-18T09:43:57.251757</create_date>
+        <update_date>2012-06-18T09:43:57.251757</update_date>
+        <experimental>False</experimental>
+        <deprecated>True</deprecated>
+        <tracker><![CDATA[http://www.faunalia.eu/]]></tracker>
+        <repository><![CDATA[http://www.faunalia.eu/]]></repository>
+        <tags><![CDATA[geology,stratigraphy]]></tags>
+        <downloads>15531</downloads>
+        <average_vote>3.92292604131</average_vote>
+        <rating_votes>26</rating_votes>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
+    </pyqgis_plugin>
+    </plugins>
